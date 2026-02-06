@@ -1,5 +1,3 @@
-# swiggy-sales-performance-dashboard
-Excel-based sales analytics dashboard analyzing 197K+ Swiggy orders
 # Swiggy Sales Performance Dashboard 📊
 
 ## Project Overview
@@ -23,21 +21,14 @@ The dashboard is designed to help stakeholders understand performance metrics an
 - Pivot Tables
 - Power Query
 - Data Cleaning & Transformation
-- Data Visualization
-
-## Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_preview.png)
+- Data Visualization  
 
 ## Key Insights
 - Identified top revenue-generating cities and time periods
 - Discovered seasonal demand patterns
 - Highlighted high-performing restaurant categories
 
-## How to Use
-1. Download the Excel dashboard file from the `dashboard` folder
-2. Open in Microsoft Excel
-3. Use slicers and filters to explore insights
 
 ## Author
 Abhishek Dhewal  
-LinkedIn: https://www.linkedin.com/in/abhishek-dhewal-5a63972bb/
+LinkedIn: www.linkedin.com/in/abhishekdhewal
